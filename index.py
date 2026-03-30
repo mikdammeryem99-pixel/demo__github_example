@@ -24,6 +24,7 @@ def remove_task():
 
 while True:
     print("\n==== TASK MANAGER ====")
+    print("Welcome to Task Manager 🚀")
     print("1. Show tasks")
     print("2. Add task")
     print("3. Remove task")
