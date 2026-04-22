@@ -3,6 +3,7 @@ tasks = []
 def show_tasks():
     if len(tasks) == 0:
         print("No tasks yet!")
+        print("nooo")
     else:
         print("\nYour tasks:")
         for i, task in enumerate(tasks):
